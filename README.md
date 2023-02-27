@@ -1,6 +1,7 @@
 # Shop
 
 This project was bootstrapped with [Vite](https://vitejs.dev/).
+Functionality: addition and removing items from the cart
 
 ## Available Scripts
 
