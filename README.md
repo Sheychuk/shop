@@ -26,7 +26,7 @@ React\
 TypeScript\
 REDUX toolkit\
 Styled Component\
-FSD architecture\
+FSD architecture
 
 ## Folder Structure
 
